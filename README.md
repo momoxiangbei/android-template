@@ -16,8 +16,6 @@
 		private Canvas mCanvas;
 		private Thread t;
 		private Boolean isRuning;
-		
-		
 
 		public SurfaceViewTempl(Context context) {
 			super(context,null);
